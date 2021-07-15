@@ -1,0 +1,23 @@
+# PyTorch
+torch>=1.0.0
+#
+scikit-learn
+quadprog
+fire
+# progress bars in model download and training scripts
+tqdm
+# Accessing files from S3 directly.
+boto3
+# Install tensorboard
+tensorboard
+# for math
+scipy
+# Used for downloading models over HTTP
+requests
+# For OpenAI GPT
+regex
+pandas
+# For XLNet
+sentencepiece
+# For XLM
+sacremoses

@@ -1,0 +1,8 @@
+{
+  "vocab_file": "./config/dictionary.txt",
+  "embedding_file": "./config/embeddings.pkl",
+  "do_lower_case": false,
+  "embedding_dim": 300,
+  "hidden_dim": 512,
+  "dropout": 0
+}

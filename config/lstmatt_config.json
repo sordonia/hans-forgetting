@@ -1,0 +1,7 @@
+{
+  "vocab_file": "/workdrive/workspace/hans-forgetting/config/dictionary.txt",
+  "embedding_file": "/workdrive/workspace/hans-forgetting/config/embeddings.pkl",
+  "do_lower_case": false,
+  "embedding_dim": 300,
+  "hidden_dim": 2048
+}
